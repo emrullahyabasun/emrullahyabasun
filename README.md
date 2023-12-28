@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Emrullah
 - 👀 I’m interested in Web Development and trying to specialize in Fintech
-- 🌱 I’m currently in a bootcamp called Train & Work by Architecht
+- 🌱 I’m currently in Train & Work 2 bootcamp by Architecht
 - 📫 You can reach me via my e-mail adress : yabasunemrullah@gmail.com
 
 <!---
