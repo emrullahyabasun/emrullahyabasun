@@ -1,6 +1,5 @@
-- 👋 Hi, I’m Emrullah
-- 👀 I’m interested in Web Development and trying to specialize in Fintech
-- 🌱 I’m currently in Train & Work 2 bootcamp by Architecht
+- 👋 Hi, I’m Emrullah Full-Stack Developer at a fintech compant in İstanbul
+- 👀 Currently I’m interested in C# and trying to specialize in Fintech
 - 📫 You can reach me via my e-mail adress : yabasunemrullah@gmail.com
 
 <!---
